@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageSearch</string>
+
+    <string-array name="image_types">
+        <item>all</item>
+        <item>photo</item>
+        <item>illustration</item>
+        <item>vector</item>
+    </string-array>
+</resources>
